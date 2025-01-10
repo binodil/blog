@@ -1,27 +1,29 @@
-# Sardor Abdirayimov's Blog
+# Blog Sahifa
 
-Assalomu Alaikum, It's [Sardor](https://github.com/AbdirayimovS). This is my technical blog about programming and research. Useful links are below: <!-- Check out my essays below: -->
-* Essays: https://abdirayimov.me
+Assalomu alaykum, Men [Sardor](https://github.com/AbdirayimovS) bo'laman. Bu sahifada, men AI va zamonaviy bilimlar xaqida mulohaza qilib boraman.
+
+Qo'shimcha foydali manbalar: <!-- Check out my essays below: -->
+* Insholar: https://abdirayimov.me
+* Youtube: https://www.youtube.com/@sardorabdirayimov
 <!--* Talks: To be added in 2025. I will add for sure. InshaAllah -->
 <!--* Tutorials: To be added in 2025 -->
 
-Inspired from [David Beazley](https://github.com/dabeaz/blog), I am resuming my blogging inthe form of GitHub repo. Posts are in reverse chronological order.
+[Beazley David](https://github.com/dabeaz/blog)dan ilhomlanib, blog sahifani - GitHub Repository ko'rinishida qiladigan bo'ldim. Postlar teskari xronologik tartibda.
 
 ## 2025
-* 
+* [Nega Blog Yurityapman?](2025/nega_blog_yurityapman.md) (1 Yanvar, 2025)
 
 <!--## YYYY
-* Title-of-blog-and-link
+* Title-of-blog-and-link - date?
 -->
 
-## Notifications
+## Obuna bo'ling
+Bloglarni o'z vaqtida o'qish uchun, obuna bo'ling. Keyin pochtangizga doimiy xabarlar yetib boradi.
+Avvalo, asosiy sahifaga o'ting, keying:
+  1. `Watch` tugmasini bosing.
+  2. `Custom`-> `Releases` variantini tanlang.
+  3. `Apply` tugmasini bosing! Tayyor!
 
-New posts are made via a "release". Watch the repo's releases.
-  1. Click `Watch` button.
-  2. Select `Custom` -> `Releases` option.
-  3. Press `Apply` button.
+## Fikr-mulohaza
 
-
-## Feedback
-
-If you see a typo or want to make a comment on something, submit a pull request.
+Agar siz matnda xatoni ko'rsangiz yoki biror narsaga fikr bildirmoqchi bo'lsangiz, `PR (Pull Request)` yuboring. Siz buni GitHub-ning o'zidan ham qilishingiz mumkin (muharrirni (IDE) ochish uchun "." tugmasini bosing).
