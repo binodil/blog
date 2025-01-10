@@ -8,7 +8,7 @@ Qo'shimcha foydali manbalar: <!-- Check out my essays below: -->
 <!--* Talks: To be added in 2025. I will add for sure. InshaAllah -->
 <!--* Tutorials: To be added in 2025 -->
 
-[Beazley David](https://github.com/dabeaz/blog)dan ilhomlanib, blog sahifani - GitHub Repository ko'rinishida qiladigan bo'ldim. Postlar teskari xronologik tartibda.
+[Beazley David](https://github.com/dabeaz/blog)dan ilhomlanib, blog sahifani - GitHub Repository ko'rinishida qiladigan bo'ldim. Postlar teskari xronologik tartibda yozilgan.
 
 ## 2025
 * [Nega Blog Yurityapman?](2025/nega_blog_yurityapman.md) (1 Yanvar, 2025)
